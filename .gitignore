@@ -340,3 +340,4 @@ ASALocalRun/
 healthchecksdb
 MidDosyaYonetim.Win/App.config
 MidDosyaYonetim.AppServer/App.config
+MidDosyaYonetim.AppServer/Program.cs
