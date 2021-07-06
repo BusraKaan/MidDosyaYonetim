@@ -339,3 +339,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 MidDosyaYonetim.Win/App.config
+MidDosyaYonetim.AppServer/App.config
